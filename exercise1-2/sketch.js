@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-    Background(0);
-    fill(255);
+    background(0);
     line(0, 0, 200, 200);
+    stroke(255);
     line(100, 100, 100, 200);
 }
